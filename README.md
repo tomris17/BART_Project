@@ -54,5 +54,5 @@ This project analyzes San Francisco BART (Bay Area Rapid Transit) ridership data
 
 ---
 
-## 📝 Conclusion
+##  Conclusion
 By analyzing travel times, popular routes, and station distances, this project provides data-backed insights to improve BART train scheduling, operational efficiency, and overall passenger experience.
